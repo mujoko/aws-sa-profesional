@@ -17,5 +17,5 @@ So the situation involved only needing to route from VPC A to VPC B to get to th
 I totally guess at the answer, I think I picked an answer that mentioned a specific route for the instance in VPC B? I am not very strong in this area, if it isn't obvious. Even reading over the AWS documentation is just confusing to me. I think the documentation tells me that I picked the right answer since I only remember one answer mentioning a specific route for the instance in VPC B.
 
   
-HA and Fault Tollerant
+# HA and Fault Tollerant
 ![See the ha](ha.PNG)	  
