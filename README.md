@@ -1,7 +1,9 @@
 # aws-sa-profesional
 ## Scope Of the Exam DVA-C01
 ![See the outline](outline.PNG)
-Free courses from AWS.training (free stuffs are great!)
+
+Free courses from AWS.
+
 * EC2 Systems Manager: https://www.aws.training/learningobject/curriculum?id=13830
 * Introduction to AWS Config https://www.aws.training/learningobject/video?id=16020
 * Exam Readiness: AWS Certified DevOps Engineer – Professional https://www.aws.training/learningobject/wbc?id=19689
