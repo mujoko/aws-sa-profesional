@@ -100,15 +100,12 @@ Services/ difficult topics I encountered:
 
 Helpful Links:
 
-https://medium.com/@jonbonso/aws-certified-solutions-architect-professional-sap-c01-feb-2019-new-version-exam-notes-a2f557da4ed0
 
 https://docs.aws.amazon.com/vpc/latest/peering/peering-configurations-partial-access.html#one-to-two-vpcs-lpm
 
 https://aws.amazon.com/cloud-migration/
 
 https://aws.amazon.com/premiumsupport/knowledge-center/iam-policy-service-control-policy/
-
-Again, thank you everyone here who helped me. This forum gave me the necessary insights and tips that helped me aced the exam. This is my way of saying thank you and if you have any questions, just ask me here and I'll try to answer them! Don't forget to do your practice exams because that will really check your understanding of the topics.
 
 There is no perfect reviewer out there so ensure that you read all of the explanations in each question in the practice exams, whether you are using ACG Exam Simulator or Udemy practice exams like Tutorials Dojo or other providers. Good luck on your upcoming exam!
 
